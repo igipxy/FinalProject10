@@ -8,9 +8,9 @@ public class Test {
         System.out.println("omg guys pls collaborate");
         System.out.println("Gesang doesnt help anything");
         
-            System.out.println("Gesang Ngising 1 hari:  ");
-            sc = next.double;
+            System.out.println("Gesang Makan per hari:  ");
             double GesangNgising;
+            sc = next.double();
 
             
             
