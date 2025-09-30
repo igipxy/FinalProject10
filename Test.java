@@ -11,7 +11,7 @@ public class Test {
         
         System.out.println("Gesang Makan per hari:  ");
 
-        sc.input(close);
+        sc.close();
 
             
             
