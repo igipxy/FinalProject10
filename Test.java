@@ -9,9 +9,9 @@ public class Test {
         System.out.println("Gesang doesnt help anything");
             
         
-            System.out.println("Gesang Makan per hari:  ");
-            double GesangNgising;
-            sc = next.double();
+        System.out.println("Gesang Makan per hari:  ");
+
+        sc.input(close);
 
             
             
